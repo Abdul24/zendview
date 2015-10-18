@@ -1,4 +1,4 @@
-== README
+== ZendView
 
 ZendView is a project management ticket support and tracking application.  
 
